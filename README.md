@@ -33,19 +33,28 @@
 # 📊 GitHub Stats:
 <div align="center">
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-</a>
-<a >
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Saiguru2554&theme=dark&hide_border=false" ><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Saiguru2554&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Stats" />
 </a>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saiguru2554&theme=tokyonight" />
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saiguru2554&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</a>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saiguru2554&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" width="100%" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Saiguru2554&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages" />
+</a>
+
+<br><br>
+
+<!-- Activity Graph (Left untouched as it is working correctly) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saiguru2554&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
